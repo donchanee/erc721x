@@ -2,7 +2,7 @@ pragma solidity ^0.5.6;
 
 import "openzeppelin-solidity/contracts/token/ERC721/ERC721.sol";
 import "openzeppelin-solidity/contracts/token/ERC721/IERC721Receiver.sol";
-import "openzeppelin-solidity/contracts/utils/Address.sol";
+import "openzeppelin-contracts/blob/master/contracts/utils/Address.sol";
 import "../../Libraries/ObjectsLib.sol";
 
 
